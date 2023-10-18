@@ -1,1 +1,1 @@
-# Introduction-to-Relational-Database-and-SQL
+# Introduction to Relational Database and SQL
